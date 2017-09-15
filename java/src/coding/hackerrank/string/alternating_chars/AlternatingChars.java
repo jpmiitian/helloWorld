@@ -5,6 +5,10 @@ import java.util.Scanner;
 
 public class AlternatingChars {
 
+/**
+ * This program checks if an input string has same alternating chars.	
+ * @param args
+ */
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		int noTests = Integer.parseInt(in.nextLine());
